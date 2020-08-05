@@ -1,0 +1,38 @@
+
+
+style - стили
+
+script - скрипт
+
+div, container - создает контейнер
+
+.item*n - умножает код
+
+input - вывод текста
+
+& - амперсанд, стрелка назад
+
+insert - добавляет значение при нажатии на кнопку
+
+equal
+back
+
+grid template columns - количество столбцов
+grid-gap - расстояние  между колонками
+background color - цвет основной
+
+form - параметры формы
+
+width/height
+font size
+text-align
+
+выбрать аргумент, input form
+
+document.form.textview.value
+
+length
+
+function : insert, clean, back, equal (eval (exp))
+
+
